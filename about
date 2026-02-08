@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Us | Sunrise Bakery Café</title>
+</head>
+
+<body>
+
+<header>
+    <h1>About Sunrise Bakery Café</h1>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+
+    <section>
+        <h2>Our Story</h2>
+        <p>
+            This section will describe how the bakery was founded, its inspiration,
+            and its connection to the local community.
+        </p>
+    </section>
+
+    <section>
+        <h2>Our Mission</h2>
+        <p>
+            This section will explain the bakery’s mission and values, such as using
+            quality ingredients, supporting local suppliers, and creating a warm
+            community space.
+        </p>
+    </section>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Sunrise Bakery Café</p>
+</footer>
+
+</body>
+</html>
