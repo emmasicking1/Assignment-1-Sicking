@@ -1,9 +1,69 @@
-<!doctype html>
-<html>
-	<head>
-		<title>Week 3</title>
-	</head>
-	<body>
-		<h1>Week 3</h1>
-	</body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sunrise Bakery Café</title>
+</head>
+
+<body>
+
+<header>
+    <h1>Sunrise Bakery Café</h1>
+    <p>A neighborhood bakery serving fresh bread, pastries, and coffee.</p>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+
+    <section>
+        <h2>Welcome to Sunrise Bakery Café</h2>
+        <p>
+            This section introduces visitors to the bakery-café. It will highlight
+            what makes the bakery special, including fresh ingredients, handmade
+            baked goods, and a welcoming atmosphere.
+        </p>
+
+        <img 
+            src="images/bakery.jpg" 
+            alt="Interior of a cozy bakery café with pastries on display" 
+            width="400"
+            height="300"
+        >
+    </section>
+
+    <section id="menu">
+        <h2>Our Menu</h2>
+        <p>
+            This section will eventually showcase our menu items, including breads,
+            pastries, cakes, and beverages.
+        </p>
+
+        <h3>Popular Items</h3>
+        <ul>
+            <li>Fresh sourdough bread</li>
+            <li>Chocolate croissants</li>
+            <li>Seasonal fruit tarts</li>
+            <li>Locally roasted coffee</li>
+        </ul>
+
+        <!-- Stretch goal: internal link -->
+        <p>
+            Learn more <a href="#menu">about our menu offerings</a>.
+        </p>
+    </section>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Sunrise Bakery Café. All rights reserved.</p>
+</footer>
+
+</body>
 </html>
