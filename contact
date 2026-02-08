@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact | Sunrise Bakery Café</title>
+</head>
+
+<body>
+
+<header>
+    <h1>Contact Us</h1>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+
+    <section>
+        <h2>Get in Touch</h2>
+        <p>
+            This section will provide visitors with information on how to contact
+            the bakery, including hours of operation and location.
+        </p>
+
+        <ul>
+            <li>Email: info@sunrisebakerycafe.com</li>
+            <li>Phone: (555) 123-4567</li>
+            <li>Location: 123 Main Street, Your City</li>
+        </ul>
+    </section>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Sunrise Bakery Café</p>
+</footer>
+
+</body>
+</html>
